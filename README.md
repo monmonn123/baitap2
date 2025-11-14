@@ -11,14 +11,6 @@
 - Màn hình trang tổng quan (Dashboard) sau khi đăng nhập thành công.
   ![Anh](canhan.png)
 
-## 🛠️ Công nghệ sử dụng
-
-- **Ngôn ngữ:** [Kotlin](https://kotlinlang.org/)
-- **UI Toolkit:** [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- **Kiến trúc:** MVVM (Model-View-ViewModel) cơ bản
-- **Điều hướng:** [Navigation for Compose](https://developer.android.com/jetpack/compose/navigation)
-
-
 ## 📂 Cấu trúc dự án
 
 - `app/src/main/java/com/example/baitap_bt2/`
